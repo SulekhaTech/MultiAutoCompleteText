@@ -1,1 +1,3 @@
 # MultiAutoCompleteText
+Create Quick Reply , Mentions and much more... 
+Remove or Keep Token after Selecting a text
