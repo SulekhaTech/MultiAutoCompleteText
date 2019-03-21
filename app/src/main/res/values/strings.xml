@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sulekha Open Source</string>
+    <string name="enter_text">Enter Text with token</string>
+    <string name="sulekha_auto_complete_textview">Sulekha\nAuto Complete TextView</string>
+</resources>
